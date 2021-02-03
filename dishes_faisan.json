@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Burgers",
+    "name": "Codfish Burger",
+    "price": 9.95
+  },
+  {
+    "category": "Burgers",
+    "name": "Shrimp Burger",
+    "price": 15.75
+  },
+  {
+    "category": "Fish",
+    "name": "Smoked Salmon",
+    "price": 12.95
+  }
+]
